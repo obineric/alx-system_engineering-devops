@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 13 iacta | tail +13
+head -n 13 iacta > tail +13
