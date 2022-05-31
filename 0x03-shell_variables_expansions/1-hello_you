@@ -1,2 +1,2 @@
-#!/bash/ksh
+#!/bin/bash
 echo "$USER"
