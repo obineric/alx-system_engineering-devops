@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | cut -d ":" -f 1-100 | ls | wc
+echo $PATH | cut -d ":" -f 1-100 | ls | wc -l
