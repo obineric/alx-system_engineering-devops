@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -iname [a-z]*
+find /etc/ssh/sshd_config -iname [a-z]*
